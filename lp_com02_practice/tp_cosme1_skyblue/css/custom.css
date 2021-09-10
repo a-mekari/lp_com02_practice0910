@@ -1,0 +1,119 @@
+/* btn */
+.btn-primary {
+    color: #fff;
+    background: #FF006D;
+}
+.btn02 {
+    font-family: 'Sawarabi Mincho', sans-serif;
+    padding: 2rem;
+    font-size: 1.375rem;
+    text-align: center;
+    width: 100%;
+    border-radius:10px;
+    margin: -250px;
+    position: relative;
+    top: 600px;
+    width: 300px;
+}
+.btn03 {
+    font-family: 'Sawarabi Mincho', sans-serif;
+    padding: 2rem;
+    font-size: 1.375rem;
+    text-align: center;
+    width: 100%;
+    border-radius:10px;
+    margin: -250px;
+    position: relative;
+    top: 470px;
+    left: 120px;
+    width: 300px;
+}
+.btn06 {
+    font-family: 'Sawarabi Mincho', sans-serif;
+    padding: 2rem;
+    font-size: 1.375rem;
+    text-align: center;
+    width: 100%;
+    border-radius:10px;
+    margin: -250px;
+    position: relative;
+    top: 360px;
+    left: 120px;
+    width: 300px;
+}
+.btn-primary:hover {
+    background: #eb70a5;
+    color: white;
+   
+}
+/* .btn-secondary {
+    color: #555;
+    background: #FF006D;
+}
+.btn-secondary:hover {
+    background: #f167a3;
+} */
+
+.sec01{
+    background-image: url('../images/lp_01.png') ;
+    background-repeat: no-repeat no-repeat;
+    color: #E8F0F3;
+    padding: 24rem 35rem;
+    background-position: center top, center;
+}
+.sec02{
+    background-image: url('../images/lp_02.png') ;
+    background-repeat: no-repeat no-repeat;
+    color: #E8F0F3;
+    padding: 45rem 35rem;
+    background-position: center top, center;
+    text-align: center;
+}
+.sec03{
+    background-image: url('../images/lp_03.png') ;
+    background-repeat: no-repeat no-repeat;
+    color: #E8F0F3;
+    padding: 35rem 35rem;
+    background-position: center top, center;
+}
+.sec04{
+    background-image: url('../images/lp_04.png') ;
+    background-repeat: no-repeat no-repeat;
+    color: #E8F0F3;
+    padding: 32rem 35rem;
+    background-position: center top, center;
+}
+.sec05{
+    background-image: url('../images/lp_05.png') ;
+    background-repeat: no-repeat no-repeat;
+    color: #E8F0F3;
+    padding: 44rem 35rem;
+    background-position: center top, center;
+}
+.sec06{
+    background-image: url('../images/lp_06.png') ;
+    background-repeat: no-repeat no-repeat;
+    color: #E8F0F3;
+    padding: 30rem 35rem;
+    background-position: center top, center;
+}
+/* sns */
+.contact-sns {
+    padding: 2rem !important;
+    display: flex;
+    justify-content: center;
+}
+.contact-sns a {
+    background: #fff;
+    width: 3.5rem;
+    height: 3.5rem;
+    display: inline-block;
+    margin: 0 .5rem;
+    border-radius: 50% !important;
+    font-size: 2rem;
+    padding: 0.3rem;
+    color: #555;
+}
+.contact-sns a:hover {
+    background: rgba(255,255,255,.5);
+}
